@@ -10,8 +10,10 @@ Now, for be able to generate g-code with thumbnail, insert the path of executabl
 
 `Print settings -> Output options -> Post-Processing box:`
 
+![immagine](https://github.com/Giadej/PrusaSlicer-Thumbnails-Ender3V2S1/assets/80910217/fac6cdc4-fb0f-4d71-975c-1c7a43745581)
 
-![immagine](https://github.com/Giadej/PrusaSlicer-Thumbnails-Ender3V2S1-/assets/80910217/60c27179-da0f-4cb4-93aa-c43eafb3edd7)
+
+
 
 Requires expert mode to be enabled in the upper right corner of the program to see the setting. 
 
@@ -20,17 +22,27 @@ Go to `Printer settings -> General -> Firmware`
 and insert `230x180` value for the G-code thumbnails.
 For the TJC display insert `200x200` value.
 
+![prusasettings1](https://github.com/Giadej/PrusaSlicer-Thumbnails-Ender3V2S1/assets/80910217/209b8782-cc5a-4669-ad38-250cc7f4775b)
 
-![prusasettings1](https://github.com/Giadej/PrusaSlicer-Thumbnails-Ender3V2S1-/assets/80910217/00b2146c-7810-4624-aaf2-6229d9117f41)
+
 
 
 For Prusa Slicer v2.4
 
-![157301401-044fac88-f27b-45cf-916f-fe929ad3c383](https://github.com/Giadej/PrusaSlicer-Thumbnails-Ender3V2S1-/assets/80910217/ef747dd0-b780-4d1c-8952-46eaa3cace7b)
+
+![PrusaSlicer2 4](https://github.com/Giadej/PrusaSlicer-Thumbnails-Ender3V2S1/assets/80910217/37d4fa0a-362f-40da-831b-ce46f3733a93)
+
+
+
+
+
 
 
 For Prusa Slicer v2.5+
 
-![PrusaSlicer2 5+](https://github.com/Giadej/PrusaSlicer-Thumbnails-Ender3V2S1-/assets/80910217/805e2bcd-cac7-4da3-9144-19ba2ef677a6)
 
-More more details and additional info go to original [Professiona Firmrware Wiki section](https://github.com/mriscoc/Ender3V2S1/wiki/How-to-generate-a-gcode-preview)
+![PrusaSlicer2 5+](https://github.com/Giadej/PrusaSlicer-Thumbnails-Ender3V2S1/assets/80910217/c8724fd2-a252-4e42-8834-2c9bbdb4da1d)
+
+
+
+For more details and additional info, please go to original [Professiona Firmrware Wiki section](https://github.com/mriscoc/Ender3V2S1/wiki/How-to-generate-a-gcode-preview)
