@@ -5,7 +5,7 @@
 
 Based on the original python script [CreateHeaderAndThumbnail v1.7](https://raw.githubusercontent.com/mriscoc/Marlin_Ender3v2/Ender3v2-Released/slicer%20scripts/prusa-superslicer/CreateHeaderAndThumbnail.py) by [Mriscoc](https://github.com/mriscoc), this simple executable code (.exe) for Windows operating systems allows to generate and show a g-code thumbnail preview and other additional informations on the supported printer display. 
 
-Download the [CreateHeaderAndThumbnail.exe](https://github.com/Giadej/PrusaSlicer-Thumbnails-Ender3V2S1-/blob/main/CreateHeaderAndThumbnail.exe) on the preferred location on PC, (for example C:)
+Download the [CreateHeaderAndThumbnail.exe](https://github.com/Giadej/PrusaSlicer-Thumbnails-Ender3V2S1/blob/main/CreateHeaderAndThumbnail.exe) on the preferred location on PC, (for example C:)
 
 
 Now, for be able to generate g-code with thumbnail, insert the path of executable file on the Prusalicer on
